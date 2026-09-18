@@ -4,3 +4,4 @@
 - Nombre: Julian Pedraza
 - semestre: Sexto
 - Tecnologias: Java
+- Carrera: Sistemas
